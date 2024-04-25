@@ -1,5 +1,5 @@
 # CM2-Net
-This is the source code for the paper *Ultra-lightweight convolutional neural network for edge-AI driven tea leaf disease diagnosis*.
+This is the source code for the paper *Ultra-lightweight convolutional neural network for edge-AI-driven tea leaf disease diagnosis*.
 
 ## 1. Graphical abstract of paper
 <image src="./Pic/01.jpg" width="800">
