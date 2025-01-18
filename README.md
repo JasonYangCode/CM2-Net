@@ -17,6 +17,6 @@ This is the source code for the paper *Edge AI-enabled ultra-lightweight convolu
 <image src="./Pic/04.jpg" width="300">
 <center></center>
 
-## 5. Source of dataset
+## 5. Source of datasets
 - Tea Sickness Dataset (TSD): [https://data.mendeley.com/datasets/j32xdt2ff5/2](https://data.mendeley.com/datasets/j32xdt2ff5/2)
 - Tea Disease Dataset (TDD): [https://www.jianguoyun.com/p/DRwyMxYQqJnmCxiGl5IFIAA](https://www.jianguoyun.com/p/DRwyMxYQqJnmCxiGl5IFIAA)
