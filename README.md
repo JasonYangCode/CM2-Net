@@ -13,8 +13,11 @@ This is the source code for the paper *Edge AI-enabled ultra-lightweight convolu
 <image src="./Pic/03.jpg" width="600">
 <center></center>
 
+<image src="./Pic/04.jpg" width="600">
+<center></center>
+
 ## 4. Experiment settings
-<image src="./Pic/04.jpg" width="300">
+<image src="./Pic/05.jpg" width="300">
 <center></center>
 
 ## 5. Source of datasets
