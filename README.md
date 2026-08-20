@@ -28,15 +28,15 @@ This is the source code for the paper *Edge AI-enabled ultra-lightweight convolu
 
 We gratefully thank the authors for their wonderful works:
 
-- Sun, Yange, Fei Wu, Huaping Guo, Ran Li, Jianfeng Yao, and Jianbo Shen. "TeaDiseaseNet: multi-scale self-attentive tea disease detection." Frontiers in Plant Science 14 (2023): 1257212.
+- Sun, Yange, Fei Wu, Huaping Guo, Ran Li, Jianfeng Yao, and Jianbo Shen. "TeaDiseaseNet: Multi-scale self-attentive tea disease detection." Frontiers in Plant Science 14 (2023): 1257212.
 
-- Hou, Qibin, Daquan Zhou, and Jiashi Feng. "Coordinate attention for efficient mobile network design." In Proceedings of the IEEE/CVF conference on computer vision and pattern recognition, pp. 13713-13722. 2021.
+- Hou, Qibin, Daquan Zhou, and Jiashi Feng. "Coordinate attention for efficient mobile network design." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 13713-13722. 2021.
 
-- Ma, Ningning, Xiangyu Zhang, Ming Liu, and Jian Sun. "Activate or not: Learning customized activation." In 2021 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR), pp. 8028-8038. IEEE, 2021.
+- Ma, Ningning, Xiangyu Zhang, Ming Liu, and Jian Sun. "Activate or not: Learning customized activation." In Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition, pp. 8028-8038. 2021.
 
-- Cubuk, Ekin Dogus, Barret Zoph, Jon Shlens, and Quoc Le. "Randaugment: Practical automated data augmentation with a reduced search space." Advances in neural information processing systems 33 (2020): 18613-18624.
+- Cubuk, Ekin Dogus, Barret Zoph, Jon Shlens, and Quoc Le. "Randaugment: Practical automated data augmentation with a reduced search space."  Advances in Neural Information Processing Systems 33 (2020): 18613-18624.
 
-- Howard, Andrew, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang et al. "Searching for mobilenetv3." In Proceedings of the IEEE/CVF international conference on computer vision, pp. 1314-1324. 2019.
+- Howard, Andrew, Mark Sandler, Grace Chu, Liang-Chieh Chen, Bo Chen, Mingxing Tan, Weijun Wang et al. "Searching for mobilenetv3." In Proceedings of the IEEE/CVF International Conference on Computer Vision, pp. 1314-1324. 2019.
 
 
 ## 7. Reference
