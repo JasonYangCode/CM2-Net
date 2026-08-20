@@ -47,7 +47,7 @@ Yang, Qing, Ziyan Feng, Qingqing Xiang, Yingjuan Chen, Shukai Duan, and Lidan Wa
 
 
 ```
-@article{YANG20261CM2,
+@article{YANG2026CM2,
 title = {Edge AI-enabled ultra-lightweight convolutional neural network for tea leaf disease diagnosis},
 journal = {Applied Soft Computing},
 volume = {203},
