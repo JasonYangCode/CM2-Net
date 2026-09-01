@@ -43,7 +43,7 @@ We gratefully thank the authors for their wonderful works:
 
 If you find this repo useful, please consider citing:
 
-Yang, Qing, Ziyan Feng, Qingqing Xiang, Yingjuan Chen, Shukai Duan, and Lidan Wang. "Edge AI-enabled ultra-lightweight convolutional neural network for tea leaf disease diagnosis." Applied Soft Computing 203 (2026): 116074. https://doi.org/10.1016/j.asoc.2026.116074
+Yang, Q., Feng, Z., Xiang, Q., Chen, Y., Duan, S., & Wang, L. (2026). Edge AI-enabled ultra-lightweight convolutional neural network for tea leaf disease diagnosis. Applied Soft Computing, 203, 116074. https://doi.org/10.1016/j.asoc.2026.116074
 
 
 ```
@@ -56,6 +56,6 @@ year = {2026},
 issn = {1568-4946},
 doi = {https://doi.org/10.1016/j.asoc.2026.116074},
 url = {https://www.sciencedirect.com/science/article/pii/S156849462601522X},
-author = {Qing Yang and Ziyan Feng and Qingqing Xiang and Yingjuan Chen and Shukai Duan and Lidan Wang},
+author={Yang, Qing and Feng, Ziyan and Xiang, Qingqing and Chen, Yingjuan and Duan, Shukai and Wang, Lidan}
 }
 ```
